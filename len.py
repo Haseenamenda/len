@@ -1,4 +1,4 @@
-x=int(input())
-len=['zero','one','two','three','four','five','six','seven','eight','nine','ten']
-print(len[x])
+h=int(input())
+len=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
+print(len[h])
 	
